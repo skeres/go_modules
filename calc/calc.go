@@ -1,7 +1,3 @@
-/*
-- go mod init gitlab.com/skeres/go_modules
-*/
-
 package calc
 
 // Calcule retourne la somme x + y
